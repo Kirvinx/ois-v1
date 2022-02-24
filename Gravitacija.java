@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 --nism sure ce dela :D
+Test za 8. tocko
 
 public class Gravitacija {
 	public static void main(String[] args) {
