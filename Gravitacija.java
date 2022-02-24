@@ -2,7 +2,27 @@ import java.util.Scanner;
 
 // nism sure ce dela :D
 // test za 8. tocko
+//senkrat kodo po delih
 
+public class Gravitacija {
+	public static void main(String[] args) {
+
+
+
+
+
+
+
+	}
+}
+
+
+
+
+
+
+
+/*
 public class Gravitacija {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -22,4 +42,8 @@ public class Gravitacija {
 
 
 	}
+	
+*/
+
+
 }
