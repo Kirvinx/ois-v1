@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+--nism sure ce dela :D
 
 public class Gravitacija {
 	public static void main(String[] args) {
