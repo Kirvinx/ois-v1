@@ -6,13 +6,37 @@ import java.util.Scanner;
 
 public class Gravitacija {
 	public static void main(String[] args) {
-
-	System.out.println("OIS je zakon");
+	
+		
+	//izpis gravitacijskega pospeška za nadmorsko višino iz ukazne vrstice
+	double izpisPospeska = gravitacijskiPospesek(double nadmorskaVisina);  //
+	System.out.println(izpisPospeska);
 
 
 
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
