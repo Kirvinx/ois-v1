@@ -1,24 +1,32 @@
 import java.util.Scanner;
 
+// nism sure ce dela :D
+// test za 8. tocko
+//senkrat kodo po delih
 
 public class Gravitacija {
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		Scanner sc = new Scanner(System.in);
 		double v = sc.nextDouble();
 		double a = izracunajGravitacijo(v);
 		System.out.println(a);
 		
 	}
+=======
+	
+	Scanner sc = new Scanner(System.in);
+	double visina = sc.hasNextDouble();
+	
+>>>>>>> ee5b8b9462b65a36a729873a8a5c9c544dc78e8f
 	
 	
-	public static double izracunajGravitacijo(double v) {
-		final double KONSTANTA_C = 6.674 * Math.pow(10, -11);
-		final double KONSTANTA_M = 5.972 * Math.pow(10, 24);
-		final double KONSTANTA_r = 6.371 * Math.pow(10, 6);
-		
-		return  KONSTANTA_C * (KONSTANTA_M * Math.pow(KONSTANTA_r + v, 2));
+	//izpis gravitacijskega pospeška za nadmorsko višino iz ukazne vrstice, metoda gravitacija mora vrnit double!
+	System.out.printf("Gravitacijski pospešek: %f%n", gravitacija(visina));
 
 
 	}
+	
+	
 }
 
