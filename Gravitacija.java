@@ -4,8 +4,8 @@ import java.util.Scanner;
 public class Gravitacija {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int v = sc.nextInt();
-		double a = izracunajGravitacijo((double)v);
+		double v = sc.nextDouble();
+		double a = izracunajGravitacijo(v);
 		System.out.println(a);
 		
 	}
@@ -21,3 +21,4 @@ public class Gravitacija {
 
 	}
 }
+
