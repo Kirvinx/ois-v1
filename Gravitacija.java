@@ -7,19 +7,18 @@ import java.util.Scanner;
 public class Gravitacija {
 	public static void main(String[] args) {
 	
-		
+	Scanner sc = new Scanner(System.in);
+	double visina = sc.hasNextDouble();
 	
 	
-
+	
+	//izpis gravitacijskega pospeška za nadmorsko višino iz ukazne vrstice, metoda gravitacija mora vrnit double!
+	System.out.printf("Gravitacijski pospešek: %f%n", gravitacija(visina));
 
 
 	}
 	
-	//izpis gravitacijskega pospeška za nadmorsko višino iz ukazne vrstice
 	
-	public void izpis(gravitacija(nadmorskaVisina)) {
-		System.out.println(gravitacija(nadmorskaVisina))
-	}
 }
 
 
