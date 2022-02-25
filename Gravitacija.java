@@ -8,12 +8,17 @@ public class Gravitacija {
 	public static void main(String[] args) {
 	
 		
+	
+	
+
+
+
+	}
+	
 	//izpis gravitacijskega pospeška za nadmorsko višino iz ukazne vrstice
-	double izpisPospeska = gravitacijskiPospesek(double nadmorskaVisina);  //
-	System.out.println(izpisPospeska);
-
-
-
+	
+	public void izpis(gravitacija(nadmorskaVisina)) {
+		System.out.println(gravitacija(nadmorskaVisina))
 	}
 }
 
