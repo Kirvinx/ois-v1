@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// nism sure ce dela :D
 // test za 8. tocko
 //senkrat kodo po delih
 
