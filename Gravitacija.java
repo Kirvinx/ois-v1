@@ -23,7 +23,7 @@ public class Gravitacija {
 	}
 	
 	//dodau Maj
-	public static void izpis (visina) {
+	public static void izpis (double visina) {
 		System.out.printf("Gravitacijski pospešek: %f%n", gravitacija(visina));
 		System.out.printf("Visina: %f%n", visina);
 	}
