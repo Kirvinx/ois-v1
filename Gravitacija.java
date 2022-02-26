@@ -18,5 +18,12 @@ public class Gravitacija {
 
 	}
 	
+	public static void izpis (visina) {
+
+		System.out.printf("Gravitacijski pospešek: %f%n", gravitacija(visina));
+
+		System.out.printf("Visina: %f%n", visina);
+
+	}
 	
 }
